@@ -1,5 +1,3 @@
-# Portfolio
-
 # [Project 1 : Real Time facial landmark on CPU](https://github.com/alyildiz/facial_landmark)
 * Clean and process images to train a basic CNN model and a pretrained face detection model
 * Setting up an API to query the predicted image using either the CNN or the state of the art model Mediapipe
