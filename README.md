@@ -10,4 +10,4 @@
 * Clean, process and augment images to fine tune a pretrained ResNet152 model
 * Setting up a web app to use the model easily
 
-![alt text](https://github.com/alyildiz/covid_19_xray/blob/master/web_app/webapp.png?raw=true)
+![alt text](https://github.com/alyildiz/covid_19_xray/blob/master/web_app/webapp.jpg?raw=true)
