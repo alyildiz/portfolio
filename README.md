@@ -1,4 +1,4 @@
-# [Project 1 : Daily running trains forecast](https://github.com/alyildiz/sncf_forecast)
+# [Production ready project : Daily running trains forecast](https://github.com/alyildiz/sncf_forecast)
 * Daily ETL of the french railway company SNCF and deploiment of best model found with hyper parameters search with airflow
 * ML models saved with mlflow
 
